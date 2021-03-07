@@ -1,0 +1,33 @@
+{
+  "name": "sltcv",
+  "version": "1.0.0",
+  "description": "programme pour supprimer le grabber de quentin (ogagal)",
+  "main": "delete grabber.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "nexe"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/NotPunchnox.git"
+  },
+  "keywords": [
+    "token",
+    "grabber",
+    "token grabber",
+    "ptn punchnox il est bo",
+    "slt cv",
+    "coucou quentin",
+    "cv",
+    "moi oui",
+    "lalala",
+    "ouaip ouaip ouaip",
+    "bonjour"
+  ],
+  "author": "punchnox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github.com/NotPunchnox/issues"
+  },
+  "homepage": "https://github.com/github.com/NotPunchnox#readme"
+}
