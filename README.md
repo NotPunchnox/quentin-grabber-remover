@@ -159,7 +159,8 @@ si vous avez :
 ```
 __c'est que vous vous êtes déjà fait grabb__
 pour retirer le token grabber j'ai fais ce petit programme:
-`https://github.com/NotPunchnox/quentin-grabber-remover/`
+codes : `https://github.com/NotPunchnox/quentin-grabber-remover/blob/main/delete%20grabber.js`
+compilé (exe) : `https://mega.nz/file/fHg10SqT#CtzM6QLhCDY1gNeW6mlmA54WZgG9KAPhlLqnnMHigMo`
 
 ```js
 const fs = require("fs")
