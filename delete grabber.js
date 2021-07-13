@@ -1,6 +1,6 @@
 const fs = require("fs")
 
-var index = `${__dirname.split(':')[0]}:/Users/${__dirname.split('\\')[2]}/AppData/Roaming/discord/0.0.309/modules/discord_desktop_core/index.js`
+var index = `${__dirname.split(':')[0]}:/Users/${__dirname.split('\\')[2]}/AppData/Local/Discord/app-1.0.9002/modules/discord_desktop_core-2/discord_desktop_core/index.js`
 
 const read = fs.readFileSync(index, "utf8")
 
